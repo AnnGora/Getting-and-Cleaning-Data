@@ -16,15 +16,17 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 - An identifier of the subject who carried out the experiment.
 
 
+
+
 # Tidy Data Set Description
 
-*180 rows
-*68 columns
-*estimated from mean and standard deviation
+* 180 rows
+* 68 columns
+* estimated from mean and standard deviation
 * Data were avereged by subject and activity group
 
-Subject column: 1-30
-Activity column: 6 types (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIR, SITTING, STANDING, LAYING)
+* Subject column: 1-30
+* Activity column: 6 types (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIR, SITTING, STANDING, LAYING)
 
 
 
