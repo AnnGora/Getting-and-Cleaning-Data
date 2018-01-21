@@ -6,8 +6,10 @@ Course 3: Getting and Cleaning Data
 
 week 4: Project
 
+
 Purpose: collect, work with, clean the data set
 Goal: prepare tidy data that can be used for later analysis
+
 
 Review criteria 
 1.The submitted data set is tidy.
@@ -15,6 +17,7 @@ Review criteria
 3.GitHub contains a code book that modifies and updates the available codebooks with the data to indicate all the variables and summaries calculated, along with units, and any other relevant information.
 4. The README that explains the analysis files is clear and understandable.
 5.The work submitted for this project is the work of the student who submitted it.
+
 
 Steps:
 1. Merge the training and the test sets to create one data set.
