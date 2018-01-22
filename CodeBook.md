@@ -26,8 +26,8 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 - 68 columns
 - variables were avereged by subject and activity group
 
--Subjects: 1-30
--Activity groups: 6 types:
+- Subjects: 1-30
+- Activity groups: 6 types:
   * WALKING 
   * WALKING_UPSTAIRS
   * WALKING_DOWNSTAIR 
