@@ -18,7 +18,9 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 
 
-# Tidy Data Set Description
+
+
+## Tidy Data Set Description
 
 - 180 rows
 - 68 columns
